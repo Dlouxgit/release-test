@@ -1,3 +1,12 @@
+## [1.1.4](https://github.com/Dlouxgit/release-test/compare/1.1.2...1.1.4) (2023-09-01)
+
+
+### Features
+
+* add js ([931deff](https://github.com/Dlouxgit/release-test/commit/931deffcbad3deab4669524a51ca5267348d1091))
+
+
+
 ## [1.1.2](https://github.com/Dlouxgit/release-test/compare/1.1.1...1.1.2) (2023-09-01)
 
 
