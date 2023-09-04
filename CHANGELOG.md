@@ -1,3 +1,12 @@
+# [1.10.0](https://github.com/Dlouxgit/release-test/compare/1.10.0-0...1.10.0) (2023-09-04)
+
+
+### Features
+
+* x ([bc6f671](https://github.com/Dlouxgit/release-test/commit/bc6f6710b9803d3931567fddffc9c09ae95f4f2c))
+
+
+
 # [1.10.0-0](https://github.com/Dlouxgit/release-test/compare/1.9.1...1.10.0-0) (2023-09-04)
 
 
