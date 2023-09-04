@@ -1,3 +1,12 @@
+## [1.2.2](https://github.com/Dlouxgit/release-test/compare/1.2.1...1.2.2) (2023-09-04)
+
+
+### Features
+
+* add halo ([8396b54](https://github.com/Dlouxgit/release-test/commit/8396b545d370ad9fc2bee7a5503f9fbcf7225afc))
+
+
+
 ## [1.2.1](https://github.com/Dlouxgit/release-test/compare/1.2.0...1.2.1) (2023-09-04)
 
 
