@@ -1,3 +1,12 @@
+## [1.2.4](https://github.com/Dlouxgit/release-test/compare/1.2.3...1.2.4) (2023-09-04)
+
+
+### Features
+
+* repl ([0dac46a](https://github.com/Dlouxgit/release-test/commit/0dac46a0ad694d913c8befc70f2dde94016524cb))
+
+
+
 ## [1.2.3](https://github.com/Dlouxgit/release-test/compare/1.2.2...1.2.3) (2023-09-04)
 
 
