@@ -1,3 +1,12 @@
+## [1.2.5](https://github.com/Dlouxgit/release-test/compare/1.2.4...1.2.5) (2023-09-04)
+
+
+### Bug Fixes
+
+* xx ([a7e8197](https://github.com/Dlouxgit/release-test/commit/a7e8197c0f22e63a01b4159012e7662be1844be4))
+
+
+
 ## [1.2.4](https://github.com/Dlouxgit/release-test/compare/1.2.3...1.2.4) (2023-09-04)
 
 
