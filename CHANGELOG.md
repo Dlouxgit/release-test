@@ -1,3 +1,12 @@
+## [1.7.1](https://github.com/Dlouxgit/release-test/compare/v1.7.0...1.7.1) (2023-09-04)
+
+
+### Features
+
+* tag ([41c45b1](https://github.com/Dlouxgit/release-test/commit/41c45b17946f9936598f1dfdbbab720169c270b4))
+
+
+
 # [1.7.0](https://github.com/Dlouxgit/release-test/compare/v1.6.1...v1.7.0) (2023-09-04)
 
 
