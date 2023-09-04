@@ -1,3 +1,12 @@
+## [1.2.3](https://github.com/Dlouxgit/release-test/compare/1.2.2...1.2.3) (2023-09-04)
+
+
+### Features
+
+* galo ([da09449](https://github.com/Dlouxgit/release-test/commit/da0944952249bc974f359d0e3a2e9063d27d4db8))
+
+
+
 ## [1.2.2](https://github.com/Dlouxgit/release-test/compare/1.2.1...1.2.2) (2023-09-04)
 
 
