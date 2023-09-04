@@ -1,3 +1,12 @@
+# [1.8.0](https://github.com/Dlouxgit/release-test/compare/1.7.3...1.8.0) (2023-09-04)
+
+
+### Features
+
+* minor ([25e7a64](https://github.com/Dlouxgit/release-test/commit/25e7a648deb7b701109cfad52caf5e3c8ffd88a4))
+
+
+
 ## [1.7.3](https://github.com/Dlouxgit/release-test/compare/1.7.2...1.7.3) (2023-09-04)
 
 
