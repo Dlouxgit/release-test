@@ -1,3 +1,41 @@
+# [1.5.0](https://github.com/Dlouxgit/release-test/compare/1.3.2...1.5.0) (2023-09-04)
+
+
+### Bug Fixes
+
+* x ([3f944c6](https://github.com/Dlouxgit/release-test/commit/3f944c6962482a390277922439e7d62840635ee0))
+
+
+### Features
+
+* new ([a080c58](https://github.com/Dlouxgit/release-test/commit/a080c588968205bd8c4937852e6a3f5fe13f5f0d))
+* xs ([53c4679](https://github.com/Dlouxgit/release-test/commit/53c467921e9224c216ec8fe6bbf4b60cb3842654))
+
+
+
+## [1.3.2](https://github.com/Dlouxgit/release-test/compare/1.3.1...1.3.2) (2023-09-04)
+
+
+### Features
+
+* x ([a4d5d2c](https://github.com/Dlouxgit/release-test/commit/a4d5d2c399bb6d67f1be020018b1ad0a65f7ca53))
+
+
+
+## [1.3.1](https://github.com/Dlouxgit/release-test/compare/1.2.5...1.3.1) (2023-09-04)
+
+
+### Bug Fixes
+
+* x ([be7ef9c](https://github.com/Dlouxgit/release-test/commit/be7ef9cd9f2181c9c98d5a194ea6809e45148aec))
+
+
+### Features
+
+* xx ([186e336](https://github.com/Dlouxgit/release-test/commit/186e336907468943d127372d446bd3543b9cd55b))
+
+
+
 ## [1.2.5](https://github.com/Dlouxgit/release-test/compare/1.2.4...1.2.5) (2023-09-04)
 
 
