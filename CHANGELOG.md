@@ -1,3 +1,12 @@
+## [1.7.2](https://github.com/Dlouxgit/release-test/compare/1.7.1...1.7.2) (2023-09-04)
+
+
+### Features
+
+* halo ([668722e](https://github.com/Dlouxgit/release-test/commit/668722e646f9610717ed3658fb5dcb5d1eadf348))
+
+
+
 ## [1.7.1](https://github.com/Dlouxgit/release-test/compare/v1.7.0...1.7.1) (2023-09-04)
 
 
