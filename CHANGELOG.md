@@ -1,3 +1,7 @@
+## [1.19.2-4](https://github.com/Dlouxgit/release-test/compare/1.19.2-3...1.19.2-4) (2023-09-05)
+
+
+
 ## [1.19.2-3](https://github.com/Dlouxgit/release-test/compare/1.19.2-2...1.19.2-3) (2023-09-05)
 
 
