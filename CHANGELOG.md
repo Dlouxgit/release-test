@@ -1,3 +1,7 @@
+# [6.0.0-0](https://github.com/Dlouxgit/release-test/compare/5.0.1-0...6.0.0-0) (2023-09-05)
+
+
+
 ## [5.0.1-0](https://github.com/Dlouxgit/release-test/compare/5.0.0-1...5.0.1-0) (2023-09-05)
 
 
