@@ -1,6 +1,6 @@
 {
   "name": "dl-release-test",
-  "version": "7.2.0-0",
+  "version": "8.0.0-0",
   "description": "",
   "main": "index.js",
   "scripts": {
