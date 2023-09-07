@@ -1,3 +1,11 @@
+# [8.1.0-0](https://github.com/Dlouxgit/release-test/compare/8.0.3-0...8.1.0-0) (2023-09-07)
+
+
+
+## [8.0.3-0](https://github.com/Dlouxgit/release-test/compare/8.0.2-0...8.0.3-0) (2023-09-06)
+
+
+
 ## [8.0.2-0](https://github.com/Dlouxgit/release-test/compare/8.0.1-0...8.0.2-0) (2023-09-06)
 
 
