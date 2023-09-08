@@ -1,3 +1,7 @@
+# [10.4.0-2](https://github.com/Dlouxgit/release-test/compare/10.4.0-1...10.4.0-2) (2023-09-08)
+
+
+
 # [10.4.0-1](https://github.com/Dlouxgit/release-test/compare/10.4.0-0...10.4.0-1) (2023-09-08)
 
 
