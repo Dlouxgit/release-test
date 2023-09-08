@@ -1,6 +1,6 @@
 {
   "name": "dl-release-test",
-  "version": "10.3.0-rc.0",
+  "version": "10.4.0-0",
   "description": "",
   "main": "index.js",
   "scripts": {
