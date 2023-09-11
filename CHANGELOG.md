@@ -1,3 +1,59 @@
+# [11.0.0](https://github.com/Dlouxgit/release-test/compare/11.0.0-0...11.0.0) (2023-09-08)
+
+
+
+# [11.0.0-0](https://github.com/Dlouxgit/release-test/compare/11.0.0...11.0.0-0) (2023-09-08)
+
+
+
+# [10.4.0-3](https://github.com/Dlouxgit/release-test/compare/10.4.0-2...10.4.0-3) (2023-09-08)
+
+
+
+# [10.4.0-2](https://github.com/Dlouxgit/release-test/compare/10.4.0-1...10.4.0-2) (2023-09-08)
+
+
+
+# [10.4.0-1](https://github.com/Dlouxgit/release-test/compare/10.4.0-0...10.4.0-1) (2023-09-08)
+
+
+
+# [10.4.0-0](https://github.com/Dlouxgit/release-test/compare/10.3.0-rc.1...10.4.0-0) (2023-09-08)
+
+
+
+# [10.3.0-rc.0](https://github.com/Dlouxgit/release-test/compare/10.2.0-rc.0...10.3.0-rc.0) (2023-09-08)
+
+
+
+# [10.2.0-rc.0](https://github.com/Dlouxgit/release-test/compare/10.1.0-0...10.2.0-rc.0) (2023-09-08)
+
+
+
+# [10.1.0-0](https://github.com/Dlouxgit/release-test/compare/10.0.0-0...10.1.0-0) (2023-09-07)
+
+
+
+# [10.0.0-0](https://github.com/Dlouxgit/release-test/compare/9.0.0-0...10.0.0-0) (2023-09-07)
+
+
+
+# [9.0.0-0](https://github.com/Dlouxgit/release-test/compare/8.1.1-0...9.0.0-0) (2023-09-07)
+
+
+
+## [8.1.1-0](https://github.com/Dlouxgit/release-test/compare/8.1.0-0...8.1.1-0) (2023-09-07)
+
+
+
+# [8.1.0-0](https://github.com/Dlouxgit/release-test/compare/8.0.3-0...8.1.0-0) (2023-09-07)
+
+
+
+## [8.0.3-0](https://github.com/Dlouxgit/release-test/compare/8.0.2-0...8.0.3-0) (2023-09-06)
+
+
+
 ## [8.0.2-0](https://github.com/Dlouxgit/release-test/compare/8.0.1-0...8.0.2-0) (2023-09-06)
 
 
