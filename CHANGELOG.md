@@ -1,3 +1,16 @@
+# [12.0.0](https://github.com/Dlouxgit/release-test/compare/12.0.0-rc.0...12.0.0) (2023-09-21)
+
+
+
+# [12.0.0-rc.0](https://github.com/Dlouxgit/release-test/compare/12.0.0-alpha.0...12.0.0-rc.0) (2023-09-20)
+
+
+### Bug Fixes
+
+* halo ([1ec5bfc](https://github.com/Dlouxgit/release-test/commit/1ec5bfc4e9f5de5c67e5fe35e6d04f9c2a39e515))
+
+
+
 # [12.0.0-0](https://github.com/Dlouxgit/release-test/compare/11.1.0...12.0.0-0) (2023-09-11)
 
 
