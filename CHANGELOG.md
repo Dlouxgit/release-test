@@ -1,3 +1,11 @@
+## [15.2.1-0](https://github.com/Dlouxgit/release-test/compare/16.0.0-0...15.2.1-0) (2024-03-14)
+
+
+
+# [16.0.0-0](https://github.com/Dlouxgit/release-test/compare/15.2.1-0...16.0.0-0) (2024-02-07)
+
+
+
 # [15.2.0](https://github.com/Dlouxgit/release-test/compare/15.1.0...15.2.0) (2024-01-30)
 
 
